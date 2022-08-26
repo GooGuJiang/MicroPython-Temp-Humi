@@ -13,3 +13,5 @@
 目前前后端是分开来写的，在这里要特别感谢 [WindLeaf233](https://github.com/WindLeaf233) 和 [Miaoywww](https://github.com/Miaoywww) 的支持~
 
 前端部分可以移步到 -> [temp-humi](https://github.com/WindLeaf233/temp-humi) 这个仓库进行查看
+## 关于MicroPython部分 
+感谢 [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) 成功让ESP8266读取到了sht31的温湿度数据
